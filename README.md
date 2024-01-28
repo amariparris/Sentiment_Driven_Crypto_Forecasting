@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the integration of sentiment analysis with cryptocurrency valuation models. It aims to understand how investor attention and general sentiment, derived from social media platforms like Twitter and Reddit, impact cryptocurrency prices. 
+This project explores the integration of sentiment analysis with cryptocurrency valuation models. It aims to understand how investor attention and general sentiment, derived from social media platforms like Twitter impact cryptocurrency prices. 
 
 ## Objectives
 
